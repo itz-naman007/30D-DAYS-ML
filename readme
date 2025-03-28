@@ -3,6 +3,7 @@
 🔧 Tech Stack: sklearn, pandas
 🔥 Dataset: World Happiness Report (features: GDP, social support, life expectancy)
 ✅ Goal: Predict the happiness score of countries.
+model used: Linear regression, Multiple Linear Regression , Polynomial Regression , Supor Vector Regression, Descision Tree
 
 🔥 Day 2: Movie Revenue Prediction (Regression + Sentiment Analysis)
 📚 Concept: Multi-Model Task (Text + Numeric Data)
