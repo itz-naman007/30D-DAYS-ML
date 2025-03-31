@@ -9,7 +9,8 @@ model used: Linear regression, Multiple Linear Regression , Polynomial Regressio
 📚 Concept: Multi-Model Task (Text + Numeric Data)
 🔧 Tech Stack: sklearn, nltk, pandas
 🔥 Dataset: Movie metadata + IMDb reviews
-✅ Goal: Use regression for revenue prediction + sentiment analysis on reviews.
+✅ Goal: Use regression for revenue prediction + sentiment analysis on reviews
+model used: for sentiment analysis i used Bag of Words (BoW) with CountVectorizer and Naive Bayes
 
 🔥 Day 3: Hotel Booking Cancellation Prediction (Classification)
 📚 Concept: Classification, Imbalanced Dataset
