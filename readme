@@ -17,6 +17,7 @@ model used: for sentiment analysis i used Bag of Words (BoW) with CountVectorize
 🔧 Tech Stack: sklearn, pandas
 🔥 Dataset: Hotel booking details (features: lead time, deposit, special requests)
 ✅ Goal: Predict whether a booking will be canceled or not.
+model used: randomforestclassofire,xgboost, lgbm
 
 🔥 Day 4: Netflix Recommendation System (Multi-Model Task)
 📚 Concept: Collaborative & Content-Based Filtering
