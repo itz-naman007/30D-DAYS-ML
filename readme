@@ -24,6 +24,7 @@ model used: randomforestclassofire,xgboost, lgbm
 🔧 Tech Stack: sklearn, pandas, KNN
 🔥 Dataset: Netflix dataset (user ratings + metadata)
 ✅ Goal: Build a hybrid recommendation system.
+model used: TF IDF vectorization and Content-Based Filtering
 
 🔥 Day 5: Spotify Genre Classification (Classification)
 📚 Concept: Audio Classification
